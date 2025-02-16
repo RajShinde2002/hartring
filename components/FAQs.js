@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
-import Accordion from "@/components/accordion"
+import Accordion from "./Accordion.js";
+
 
 const FAQs = () => {
   const words = ["Compatibility", "Battery", "Maintenance"];
