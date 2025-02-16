@@ -1,4 +1,4 @@
-import ParallaxBalls from "@/components/parallaxballs";
+import ParallaxBalls from "@/components/ParallaxBalls";
 import { ArrowRight } from "lucide-react";
 
 const Hero = () => {

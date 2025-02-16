@@ -23,7 +23,7 @@ const accordionData = [
   },
 ];
 
-const Accordion = () => {
+const accordion = () => {
   const [openId, setOpenId] = useState(null);
 
   const toggleAccordion = (id) => {
@@ -71,4 +71,4 @@ const Accordion = () => {
   );
 };
 
-export default Accordion;
+export default accordion;

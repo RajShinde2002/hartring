@@ -1,4 +1,4 @@
-import Cpcard from "./cpcard"
+import Cpcard from "./CPcard"
 
 const ConsumerProtection = () => {
 

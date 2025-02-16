@@ -1,4 +1,4 @@
-import Cardsection from "@/components/cardsection";
+import Cardsection from "@/components/CardSection";
 
 const Wellbeing = () => {
   return (
